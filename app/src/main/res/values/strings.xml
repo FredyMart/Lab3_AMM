@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fraces Celebres</string>
+    <string name="numero_aleatorio">Numero Aleatorio</string>
+    <string name="frase">frase</string>
+    <string name="Autor_1">Cristiano Ronaldo</string>
+    <string name="Frase_1">"Solo no hay solucion para la muerte, todo lo demas tiene solucion. <b>La vida es bella</b>"</string>
+    <string name="Autor_2">Ramon Valdez</string>
+    <string name="Frase_2">"Ningun Trabajo es malo, <b>Lo malo es tener que trabajar</b>"</string>
+    <string name="Autor_3">Toreto</string>
+    <string name="Frase_3">"El dinero va y viene, ya lo sabemos. <b>Lo que importa en la vida es la gente que esta con tigo.</b> Aqui y ahora!!"</string>
+    <string name="anterior">anterior</string>
+</resources>
